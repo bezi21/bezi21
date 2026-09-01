@@ -93,7 +93,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 > }
 > ```
 >
-> [🔗 Repository](link-to-repo) | [🌐 Live Demo](link-to-demo)
+> [🔗 Repository]( bezi21/damot) )
 
 ---
 
@@ -122,8 +122,6 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 > }
 > ```
 >
-> [🔗 Repository](link-to-repo) | [🌐 Live Demo](link-to-demo)
-
 
 
 ## 🎯 What I'm Currently Working On
@@ -148,22 +146,6 @@ Sharing knowledge about **full-stack development**, **Firebase best practices**,
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fiyaasmamaw@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bezi21)
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built My First Full-Stack App with React and Firebase](link)
-- [Understanding Firestore vs MongoDB: When to Use Which](link)
-- [Top 5 VS Code Extensions for Web Developers](link)
-- [Building a Real-Time Fleet Management System with Firebase](link)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-> 💡 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
----
 
 ## 📈 My Contributions
 
