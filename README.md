@@ -65,7 +65,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 >
 > **Tech:** React, Firebase (Firestore, Auth, Cloud Functions), Tailwind CSS
 >
-> [🔗 Repository](link-to-repo) | [🌐 Live Demo](link-to-demo)
+> [🔗 Repository](Mersin-web) | 
 
 ---
 
