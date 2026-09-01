@@ -66,7 +66,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 MY Projects
 
 ### 🚛 FleetOS – Fleet Management System
 > A comprehensive fleet management solution for **Mersin Construcom Company** to track vehicles, maintenance schedules, fuel consumption, and driver assignments. Built with **React** and **Firebase** for real-time updates.
