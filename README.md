@@ -39,19 +39,8 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Bezawit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bezi21&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bezi21&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bezi21&theme=radical)
-
----
-
-## 🏆 Featured Projects
+ My Projects
 
 ### 🚛 FleetOS – Fleet Management System
 > A comprehensive fleet management solution for **Mersin Construcom Company** to track vehicles, maintenance schedules, fuel consumption, and driver assignments. Built with **React** and **Firebase** for real-time updates.
@@ -93,7 +82,7 @@ I'm a **Full-Stack Developer** passionate about building scalable, high-performa
 > }
 > ```
 >
-> [🔗 Repository]( bezi21/damot) )
+> [🔗bezi21/damot Repository] )
 
 ---
 
